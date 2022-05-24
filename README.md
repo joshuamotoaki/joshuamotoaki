@@ -4,7 +4,7 @@ I'm Josh, and I'm currently finishing up high school with plans to study Physics
 **Contact Information:** The best way to contact me is via email (dachshunduniverse@gmail.com). 
 
 ### Projects
-WIP
+Learning [Ruby on Rails](https://rubyonrails.org/)
 
 ### Misc.
 WIP
