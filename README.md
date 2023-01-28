@@ -4,5 +4,7 @@ I'm Josh, and I'm currently studying [Operations Research and Financial Engineer
 **Contact Information:** The best way to contact me is via email (dachshunduniverse@gmail.com). 
 
 ### Programming Languages
-C, Java, Javascript, Ruby, Dart, ARMv8
+C, C++, Objective-C, Java, Javascript, Typescript, Ruby, Dart, ARMv8
 
+### Libraries and Frameworks
+Svelte, SvelteKit, Tailwind CSS, Bootstrap
