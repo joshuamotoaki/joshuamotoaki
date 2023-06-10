@@ -1,4 +1,4 @@
 ## Hello!
-I'm Josh, and I'm currently studying [Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University. 
+I'm Josh, and I'm currently studying [Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University. I like Svelte :)
 
-**Contact Information:** The best way to contact me is via email (dachshunduniverse at the email that Google uses). 
+**Email:** My email is dachshunduniverse at the email that Google uses. 
