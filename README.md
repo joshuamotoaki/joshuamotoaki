@@ -4,7 +4,6 @@
 
 ## 🚀 Projects
 - [**TigerJunction**](https://github.com/TigerAppsOrg/TigerJunction): A full-stack web application for Princeton academic planning and course selection.
-- [**UnboundCSE**](https://github.com/joshuamotoaki/unbound-cse): A free, online textbook for learning introductory computer science and electrical engineering.
 - [**HiraHero**](https://github.com/joshuamotoaki/hira-hero): A web-based tool for practicing typing on East Asian language keyboards.
  
 ## 💻 Technologies & Tools
