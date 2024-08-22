@@ -14,5 +14,3 @@ I primarily work with JavaScript/TypeScript (usually with Svelte or React for th
 
 ## 🌐 Contact
 Please feel free to contact me anytime (except to scam me, please don't do that) at joshuamotoaki@gmail.com.
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuamotoaki&theme=city_lights)
