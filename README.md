@@ -13,4 +13,6 @@ I'm super interested in education, engineering, and the intersection of the two.
 I primarily work with JavaScript/TypeScript (usually with Svelte or React for the frontend) and React Native (Expo) for my personal projects, and C and Python for my research. I am familiar with Go, Verilog, Java, MatLab, and ARM Assembly through my coursework. For backend development, I primarily use PostgreSQL for databases and Node.js for the server.
 
 ## 🌐 Contact
-Please feel free to contact me anytime (except to scam me, please don't do that) at joshuamotoaki at gmail dot com.
+Please feel free to contact me anytime (except to scam me, please don't do that) at joshuamotoaki@gmail.com.
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuamotoaki&theme=city_lights)
