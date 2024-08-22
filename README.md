@@ -10,7 +10,7 @@ I also do some food criticism on the side; check out my food blog for (also comi
 
 ## 🚀 Projects
 - [**TigerJunction**](https://github.com/TigerAppsOrg/tiger-junction): A full-stack web application for Princeton academic planning and course selection used by thousands of students.
-- [**GenCards**](https://github.com/gen-cards): A desktop flashcard application that features a take on spaced repetition that I believe is more human-friendly.
+- [**GenCards**](https://github.com/joshuamotoaki/gen-cards): A desktop flashcard application that features a take on spaced repetition that I believe is more human-friendly.
 - [**HiraHero**](https://github.com/joshuamotoaki/hira-hero): A web-based tool for practicing typing Hiragana.
  
 ## 💻 Technologies & Tools
