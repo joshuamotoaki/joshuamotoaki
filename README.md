@@ -2,7 +2,7 @@
 
 😊 Hi there! I'm Joshua Motoaki Lau, and I'm currently studying [Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University. I research computer networks with the [NetSyn Lab](https://netsyn.princeton.edu/), specifically looking into video streaming security. I also work as a lead developer and co-president for [TigerApps](https://tigerapps.org/). 
 
-I'm super interested in education, engineering, and the intersection of the two. If you'd like to learn more, check out my blog (coming soon). I also do some food criticism on the side; check out my food blog for (also coming soon). 
+I'm super interested in education, engineering, and the intersection of the two. If you'd like to learn more, check out my [blog](https://motoaki.dev). I also do some food criticism on the side; check out my food blog if you're interested (coming soon). 
 
 ## 🚀 Projects
 - [**TigerJunction**](https://github.com/TigerAppsOrg/tiger-junction): A full-stack web application for Princeton academic planning and course selection used by thousands of students.
