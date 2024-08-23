@@ -13,7 +13,7 @@ I love working on projects that I feel are impactful and that I want to use myse
 
 I write about my experiences in engineering and thoughts on education on my [blog](https://motoaki.dev). Here are some of my latest posts:
 <!-- BLOG-POST-LIST:START -->
-- [Human-Centered Spaced Repetition](https://example.com/blog/spaced-repetition-advisor/)
+- [Human-Centered Spaced Repetition](https://motoaki.dev/blog/spaced-repetition-advisor/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Technologies & Tools
