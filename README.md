@@ -14,6 +14,8 @@ I love working on projects that I believe are impactful and that I want to use m
 I write about my experiences in engineering and thoughts on education on my [blog](https://motoaki.dev). Here are some of my latest posts:
 <!-- BLOG-POST-LIST:START -->
 - [Human-Centered Spaced Repetition](https://motoaki.dev/blog/spaced-repetition-advisor/)
+- [Building a Custom Desktop Flashcard App in 1 Week](https://motoaki.dev/blog/gen-cards/)
+- [Why I&#39;m Starting a Blog](https://motoaki.dev/blog/why-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Technologies & Tools
