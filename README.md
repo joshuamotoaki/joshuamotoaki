@@ -7,6 +7,7 @@ I love working on projects that I believe are impactful and that I want to use m
 
 - [**TigerJunction**](https://github.com/TigerAppsOrg/tiger-junction): A full-stack web application for Princeton academic planning and course selection used by thousands of students.
 - [**GenCards**](https://github.com/joshuamotoaki/gen-cards): A desktop flashcard application that features a take on spaced repetition that I believe is more human-friendly.
+- [**TigerStudy**](https://github.com/TigerAppsOrg/tiger-study-2): A simple web app that helps Princeton students find study groups for their courses.
 - [**HiraHero**](https://github.com/joshuamotoaki/hira-hero): A web-based tool for practicing typing Hiragana.
 
 ## 📝 Blog
