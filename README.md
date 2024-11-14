@@ -1,14 +1,15 @@
 ![Header](./header.png)
 
-😊 Hi there! I'm Joshua Motoaki Lau, and I'm currently studying [Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University with minors in computer science and german. I research computer networks with the [NetSyn Lab](https://netsyn.princeton.edu/), specifically looking into video streaming security. I also work as a lead developer and co-president for [TigerApps](https://tigerapps.org/). 
+😊 Hi there! I'm Joshua Motoaki Lau (劉元明), and I'm a 3rd year undergraduate studying [Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University with minors in computer science and german. I research computer networks with the [NetSyn Lab](https://netsyn.princeton.edu/), specifically looking into video streaming security. I also work as a lead developer and co-president for [TigerApps](https://tigerapps.org/). 
 
 ## 🚀 Projects
-I love working on projects that I believe are impactful and that I want to use myself:
+My projects are primarily full-stack web development projects. I feel that web development is one of the best ways to reach a lot of people since it's quick to deploy and device agnostic. I seek to make useful projects with highest possible qualtiy. Here are some of my favorites:
 
 - [**TigerJunction**](https://github.com/TigerAppsOrg/tiger-junction): A full-stack web application for Princeton academic planning and course selection used by thousands of students.
 - [**GenCards**](https://github.com/joshuamotoaki/gen-cards): A desktop flashcard application that features a take on spaced repetition that I believe is more human-friendly.
 - [**TigerStudy**](https://github.com/TigerAppsOrg/tiger-study-2): A simple web app that helps Princeton students find study groups for their courses.
-- [**HiraHero**](https://github.com/joshuamotoaki/hira-hero): A web-based tool for practicing typing Hiragana.
+
+While I primarily make web apps with SvelteKit, I'm interested in all the different technologies out there!
 
 ## 📝 Blog
 
