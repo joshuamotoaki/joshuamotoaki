@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-😊 Hi there! I'm Joshua Motoaki Lau (劉元明), and I'm a 3rd year undergraduate studying [Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University with minors in computer science and german. I research computer networks with the [NetSyn Lab](https://netsyn.princeton.edu/), specifically looking into video streaming security. I also work as a lead developer and co-president for [TigerApps](https://tigerapps.org/). 
+😊 Hi there! I'm Joshua Motoaki Lau (劉元明), and I'm a 3rd year undergraduate studying [Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University with minors in computer science and german. I research network security with the [NetSyn Lab](https://netsyn.princeton.edu/), specifically looking into video streaming security. I also work as a lead developer and co-president for [TigerApps](https://tigerapps.org/). 
 
 ## 🚀 Projects
 My projects are primarily full-stack web development projects. I feel that web development is one of the best ways to reach a lot of people since it's quick to deploy and device agnostic. I seek to make useful projects with highest possible qualtiy. Here are some of my favorites:
