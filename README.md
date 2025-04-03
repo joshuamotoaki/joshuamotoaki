@@ -4,7 +4,7 @@
   </a>
 </p>
 
-I'm a third year Electrical and Computer Engineering student at Princeton University, minoring in computer science and German. I research computer networks and security with the [NetSyn Lab](https://netsyn.princeton.edu/). I also work as co-president and lead developer for [TigerApps](https://tigerapps.org/), a student organization that builds and maintains open-source web and mobile apps for the Princeton community. 
+I'm a third year Electrical and Computer Engineering student at Princeton University, minoring in computer science. I research computer networks and security with the [NetSyn Lab](https://netsyn.princeton.edu/). I also work as co-president and chief software engineer for [TigerApps](https://tigerapps.org/), a student organization that builds and maintains open-source web and mobile apps for the Princeton community. 
 
 ## Projects
 My project work focuses on creating scalable web apps that people want to use — ensuring that design principles are used for both architecting robust computer systems and seamless user experiences. Some of my favorites:
