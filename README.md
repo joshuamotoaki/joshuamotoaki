@@ -17,7 +17,6 @@ My project work focuses on creating scalable web apps that people want to use â€
 
 <!-- BLOG-POST-LIST:START -->
 - [Human-Centered Spaced Repetition](https://motoaki.dev/blog/spaced-repetition-advisor/)
-- [Rapid Prototyping a Custom Desktop Flashcard App](https://motoaki.dev/blog/flashcard-app/)
 - [Why I&#39;m Starting a Blog](https://motoaki.dev/blog/why-blog/)
 <!-- BLOG-POST-LIST:END -->
 
