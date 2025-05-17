@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://motoaki.dev">
-    <img src="./header.png" width="80%">
+    <img src="./header.png" width="100%">
   </a>
 </p>
 
