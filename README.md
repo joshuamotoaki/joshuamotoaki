@@ -13,12 +13,5 @@ My project work focuses on creating scalable web apps that people want to use �
 - [GenCards](https://github.com/joshuamotoaki/gen-cards) — A desktop flashcard application that features a take on spaced repetition that I believe is more human-friendly.
 - [TigerStudy](https://github.com/TigerAppsOrg/tiger-study-2) — A simple web app that helps Princeton students find study groups for their courses.
 
-## Recent Writing
-
-<!-- BLOG-POST-LIST:START -->
-- [Human-Centered Spaced Repetition](https://motoaki.dev/blog/spaced-repetition-advisor/)
-- [Why I&#39;m Starting a Blog](https://motoaki.dev/blog/why-blog/)
-<!-- BLOG-POST-LIST:END -->
-
 ## Connect
-[blog](https://motoaki.dev) • joshuamotoaki@gmail.com
+[personal website](https://motoaki.dev) • joshuamotoaki@gmail.com
