@@ -10,7 +10,7 @@ I'm a fourth year Electrical and Computer Engineering student at Princeton Unive
 
 ## Selected Projects
 
-- [Kizaki](https://kizaki.app) - A collaborative, multimedia, cross-device knowledge management platform where users can build their own interfaces utilizing a custom programming framework (and AI) which makes building high-quality web apps easy.
+- [Kizaki](https://kizaki.app) - A collaborative, multimedia, cross-device knowledge management platform where users can build their own interfaces utilizing a custom programming framework (and AI) which makes building high-quality web apps easy. (releasing soon!)
 - [TigerJunction](https://github.com/TigerAppsOrg/tiger-junction) — A full-stack web application for Princeton academic planning and course selection used by most Princeton undergraduates. I now mentor a team of students to improve the app (part of TigerApps).
 - [GenCards](https://github.com/joshuamotoaki/gen-cards) — A desktop flashcard application that features a take on spaced repetition that I believe is more human-friendly. Not really worked on anymore, but I hope to eventually return to the concept.
 
