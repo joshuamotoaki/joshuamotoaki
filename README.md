@@ -17,4 +17,4 @@ I'm also a fourth year Electrical and Computer Engineering student at Princeton 
 
 ## Connect
 
-[personal website](https://motoaki.dev) • joshuamotoaki@gmail.com
+[personal website](https://motoaki.dev) • joshua@kizaki.ai
