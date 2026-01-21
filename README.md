@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://motoaki.dev">
-    <img src="./header.png" width="100%">
-  </a>
-</p>
-
-I'm the founder & CEO of [Kizaki](https://kizaki.ai), an early-stage startup building the platform for personal software. Join our waitlist at [the website](https://kizaki.ai)!
+Hi! I'm Joshua Motoaki Lau (劉元明), and I'm the founder & CEO of [Kizaki](https://kizaki.ai), an early-stage startup building the platform for personal software. Join our waitlist at [the website](https://kizaki.ai)!
 
 
 I'm also a fourth year Electrical and Computer Engineering student at Princeton University, minoring in computer science. I research computer networks and AI with the [NetSyn Lab](https://netsyn.princeton.edu/). I also work as chief software engineer for [TigerApps](https://tigerapps.org/), a 41-member student organization that builds open-source web apps for the Princeton community.
