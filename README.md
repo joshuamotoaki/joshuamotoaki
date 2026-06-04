@@ -1,11 +1,11 @@
-Hi! I'm Joshua Motoaki Lau (劉元明), and I'm the founder & CEO of [Kizaki](https://kizaki.ai), a startup building a safe & secure programming framework and runtime for AI-generated code. Join the waitlist at our [website](https://kizaki.ai)!
+Hi! I'm Joshua Motoaki Lau (劉元明), and I'm the founder & CEO of [Kizaki](https://kizaki.ai), a startup a digital space where thoughts transform into custom software.
 
 
-I'm also a fourth year Electrical and Computer Engineering student at Princeton University, minoring in computer science. I research computer networks and security with the [NetSyn Lab](https://netsyn.princeton.edu/). I'm also a mentor for [TigerApps](https://tigerapps.org/), a 49-member student organization that builds open-source web apps for the Princeton community.
+I recently graduated from Princeton University, where I studied Electrical & Computer Engineering. There, I researched computer networks and security with the [NetSyn Lab](https://netsyn.princeton.edu/) and led [TigerApps](https://tigerapps.org/), a student organization that builds open-source web apps for the Princeton community.
 
 ## Selected Projects
 
-- [TigerJunction](https://github.com/TigerAppsOrg/tiger-junction) — A full-stack web application for Princeton academic planning and course selection used by most Princeton undergraduates. I now mentor a team of students to improve the app (part of TigerApps).
+- [TigerJunction](https://github.com/TigerAppsOrg/tiger-junction) — A full-stack web application for Princeton academic planning and course selection used by the vast majority of Princeton undergraduates.
 - [Titrate](https://github.com/AnnZhouCcc/Titrate) — An algorithm in network routers to maximize throughout and minimize latency through buffer sizing without making assumptions about the underlying network traffic (NSDI '26).
 - [GenCards](https://github.com/joshuamotoaki/gen-cards) — A desktop flashcard application that features a take on spaced repetition that I believe is more human-friendly. Not really worked on anymore, but I hope to eventually return to the concept.
 
