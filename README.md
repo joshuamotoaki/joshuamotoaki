@@ -1,4 +1,4 @@
-Hi! I'm Joshua Motoaki Lau (劉元明), and I'm the founder & CEO of [Kizaki](https://kizaki.ai).
+Hi! I'm Joshua Motoaki Lau (劉元明), and I'm co-founder & CEO of [Kizaki](https://kizaki.ai).
 
 
 I recently graduated from Princeton University, where I studied Electrical & Computer Engineering. There, I researched computer networks with the [NetSyn Lab](https://netsyn.princeton.edu/) and led [TigerApps](https://tigerapps.org/), a student organization that builds open-source apps for the Princeton community.
